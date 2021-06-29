@@ -1,0 +1,5 @@
+root: ./
+
+tructure:
+  readme: README.md
+  summary: zh-CN/_sidebar.md
