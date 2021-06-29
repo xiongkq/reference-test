@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [Mai协议v3](zh-CN/mai-protocol-v3.md)
-* [自动做市商设计](zh-CN/amm-design.md)
-* [MCDEX DAO](zh-CN/mcdex-dao.md)
-* [MCB代币经济模型](zh-CN/mcb-tokenomics.md)
+* [Mai Protocol v3](en-US/mai-protocol-v3.md)
+* [AMM Design](en-US/amm-design.md)
+* [MCDEX DAO](en-US/mcdex-dao.md)
+* [MCB Tokenomics](en-US/mcb-tokenomics.md)
