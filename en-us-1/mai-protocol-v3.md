@@ -101,7 +101,7 @@ P\_mark is the mark price provided by Oracle. `P_mark` is usually equal to the i
 The PNL \(Profit and Loss\) of the position is calculated as follows:
 
 ```text
-(P_mark-P_entry)·ΔN
+(P_mark-P_entry)·ΔN    
 ```
 
 The profit of the MCDEX perpetual position can be withdrawn at any time, i.e. “PNL” always refers to its realized state. And the position loss is deducted from the margin balance in real time.
@@ -109,7 +109,7 @@ The profit of the MCDEX perpetual position can be withdrawn at any time, i.e. �
 Trader can close position at an exit price P\_exit. The PNL after the trader closes the position is:
 
 ```text
-(P_exit-P_entry)·ΔN
+(P_exit-P_entry)·ΔN    
 ```
 
 The trader must ensure that the margin balance of the margin account always be larger than or equal to the Maintenance Margin:
