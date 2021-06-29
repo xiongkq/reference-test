@@ -2,7 +2,7 @@
 
 ## Bug奖励
 
-我们正在对[ImmuneFi](https://immunefi.com/bounty/mcdex/)进行Bug奖励，赏金高达100,000美元。
+我们正在ImmuneFi](https://immunefi.com/bounty/mcdex/)上进行Bug奖励，赏金高达100,000美元。
 
 ## 审计
 
