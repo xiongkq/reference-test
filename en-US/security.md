@@ -1,12 +1,13 @@
 # Security
 
-## Bug奖励
+## Bug Bounty
 
-我们正在对ImmuneFi[进行Bug奖励](https://immunefi.com/bounty/mcdex/)，赏金高达100,000美元。
+We have an ongoing bug bounty on [ImmuneFi,](https://immunefi.com/bounty/mcdex/) with up to $100,000 of bounty. 
 
-## 审计
+## Audits
 
-具体来说，以下是被审计的合同:
+To be specific, below are the contracts that were audited:
 
 - [MCDEX DAO](https://certificate.quantstamp.com/full/mcdex)
 - MCDEX MAI
+
