@@ -5,3 +5,4 @@
 * [AMM Design](en-US/amm-design.md)
 * [MCDEX DAO](en-US/mcdex-dao.md)
 * [MCB Tokenomics](en-US/mcb-tokenomics.md)
+* [Security](en-US/security.md)
