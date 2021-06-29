@@ -1,2 +1,2 @@
-This file is required and is used as the homepage for your documentation.
+此文件是必需的，用作文档的主页。
 
