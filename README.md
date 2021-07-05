@@ -2,11 +2,11 @@
 
 ## Definition of some key some terms in the MCDEX ecosystem
 
-- > Mai Protocol v3 - Suite of smart contracts that create a permissionless automated market maker (AMM) for perpetual swaps.
+- Mai Protocol v3 - Suite of smart contracts that create a permissionless automated market maker (AMM) for perpetual swaps.
 
-- > MCDEX - Platform and an ecosystem with DeFi products that are built on top of it. Mai Protocol v3 will be one of the many DeFi products that will be built on MCDEX.
+- MCDEX - Platform and an ecosystem with DeFi products that are built on top of it. Mai Protocol v3 will be one of the many DeFi products that will be built on MCDEX.
 
-- > MCDEX DAO - Decentralized autonomous organization (DAO) is an organization that is transparent and governs the entire MCDEX ecosystem with the use of the MCDEX native token, MCB.
+- MCDEX DAO - Decentralized autonomous organization (DAO) is an organization that is transparent and governs the entire MCDEX ecosystem with the use of the MCDEX native token, MCB.
 
 ## Introduction of Mai Protocol v3
 
